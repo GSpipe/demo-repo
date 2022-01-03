@@ -1,3 +1,3 @@
 # Demo
 
-Baseic demo file
+Basic demo file for the introduction video
